@@ -1,0 +1,5 @@
+venvagent/
+*.pyc
+__pycache__/
+documents/
+.env
